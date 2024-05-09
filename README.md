@@ -9,3 +9,6 @@ Estudiante 2: El archivo debe contrarrestar un ataque ransomware desencriptando 
 Estudiante 3: Realiza un programa que genere una carpeta y dentro de la carpeta se deben generar al menos 10 archivos txt con información del sistema. El programa debe de ser ejecutado en cualquier carpeta.
 
 Integren todo dentro un virtual environment. Al final se deben subir los archivos de un repositorio compartido, pueden utilizar el repositorio utilizado en actividades anteriores. Actualiza un los archivos readme y requirements.
+
+Para la parte 3 usar el siguiente comando:
+chmod u+x parte3.sh
